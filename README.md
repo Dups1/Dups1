@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hola, ¡Soy Orange!
+💻 Me gusta Kotlin, Swift y TypeScript
 
-<!--
-**Dups1/Dups1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+❤️ Me encanta crear Agentes de automatizacion con IA
 
-Here are some ideas to get you started:
+![GitHub Streak](https://streak-stats.demolab.com?user=Dups1&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Swift](https://img.shields.io/badge/Swift-ED8B00?style=for-the-badge&logo=Swift&logoColor=orange)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white)
