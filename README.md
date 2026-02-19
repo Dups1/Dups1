@@ -12,7 +12,7 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dups1&theme=dark&hide&border&color=FF7B00)![GitHub Streak](https://streak-stats.demolab.com?user=Dups1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dups1&theme=monokai&border&color=FF7B00)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dups1&theme=dark&hide&border&color=FF7B00)
 
 <div align="center">
   
