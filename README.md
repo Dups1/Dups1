@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hola%2C+¡Soy+Orange!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil)
 
 
-💻 Me gusta Kotlin, Swift y TypeScript.
+💻 ¡Obsesionado con la programacion!
 
 
 ❤️ Me encanta crear Agentes de automatizacion con IA.
