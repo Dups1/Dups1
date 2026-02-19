@@ -8,10 +8,12 @@
 
 ❤️ Me encanta crear Agentes de automatizacion con IA.
 
-
 ## Mis Estadisticas
-![GitHub Streak](https://streak-stats.demolab.com?user=Dups1&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dups1&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
-## Mis lenguajes
+
+
+## Mis lenguajes favoritos
 ![Swift](https://img.shields.io/badge/Swift-ED8B00?style=for-the-badge&logo=Swift&logoColor=orange) ![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white)
