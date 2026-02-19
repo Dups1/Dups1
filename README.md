@@ -1,6 +1,7 @@
 ## Sobre Mi
 
-<img src="https://pixabay.com/get/gif/word.gif" width="100%">
+<img src="word.gif" width="100%">
+
 
 
 
