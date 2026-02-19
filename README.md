@@ -1,12 +1,16 @@
 ## Sobre Mi
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hola%2C+¡Soy+Orange!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil)
 
 
-💻 ¡Obsesionado con la programacion!
 
 
-❤️ Me encanta crear Agentes de automatizacion con IA.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hola%2C+¡Soy+Orange!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil)
+
+
+
+<h2 align="center">💻 Me gusta Kotlin, Swift y TypeScript</h2>
+
+<h3 align="center">❤️ Me encanta crear Agentes de automatización con IA</h3>
 
 ## Mis Estadisticas
 
@@ -16,4 +20,7 @@
 
 
 ## Mis lenguajes favoritos
-![Swift](https://img.shields.io/badge/Swift-ED8B00?style=for-the-badge&logo=Swift&logoColor=orange) ![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-ED8B00?style=for-the-badge&logo=TypeScript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FF7B00?style=for-the-badge&logo=Swift&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-FF7B00?style=for-the-badge&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-FF7B00?style=for-the-badge&logo=TypeScript&logoColor=white)
+
+
+
