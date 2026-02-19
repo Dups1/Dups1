@@ -1,6 +1,7 @@
 ## Sobre Mi
 
-<img src="https://pixabay.com/get/gif/lineas_neon_12345.gif" width="100%">
+<img src="word.gif" width="100%">
+
 
 
 
