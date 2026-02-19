@@ -1,12 +1,13 @@
 <div align="center">
-
+  
+<img src="orange.jpeg" width="17.6%">
+  
 ## Sobre Mi
 <img src="word.gif" width="13%">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hola%2C+¡Soy+Orange!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil)<img src="word.gif" width="13%">
 ## 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF6A00&center=true&vCenter=true&width=1000&lines=❤️+Me+encanta+crear+Agentes+de+automatización+controlados+por+IA)
 
 ## Mis Estadisticas
-<img src="orange.jpeg" width="17.6%">
 
 </div>
 
