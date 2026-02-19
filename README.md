@@ -1,7 +1,6 @@
 ## Sobre Mi
 <img src="word.gif" width="13%">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF7B00&center=true&vCenter=true&width=600&lines=Hola%2C+¡Soy+Orange!;Desarrollador+Full+Stack;Bienvenido+a+mi+perfil)<img src="word.gif" width="13%">
 
-<h2 align="center">💻 Me gusta Kotlin, Swift y TypeScript</h2>
 <h3 align="center">❤️ Me encanta crear Agentes de automatización con IA</h3>
 
 ## Mis Estadisticas
